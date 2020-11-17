@@ -12,5 +12,5 @@
 
 
 
-![LICCL系统群](img/LICCL系统群.png)
+![LICCL系统群](LICCL系统群.png)
 
